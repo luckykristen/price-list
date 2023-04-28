@@ -123,6 +123,16 @@ li {
 }
 
 
+@media (max-width: 1250px) {
+    .container {
+        flex-direction: column;
+        justify-content: center;
+        width: 1000;
+        height: 100%;
+    }
+}
+
+
 
 
 
